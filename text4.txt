@@ -1,1 +1,2 @@
 this is text4 file
+new line in text4
